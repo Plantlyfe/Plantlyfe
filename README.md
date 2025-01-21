@@ -16,8 +16,8 @@ TBA
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| VPN Configuration                               | SOC Automation Lab|
-| Active Directory - Windows Server 2022         | SOC Automation Lab|
+| VPN Configuration                               | VPN Lab|
+| Active Directory - Windows Server 2022         | Server Management Lab|
 
 
 ## Tools
