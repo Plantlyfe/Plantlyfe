@@ -17,7 +17,7 @@ TBA
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | VPN Configuration                               | SOC Automation Lab|
-| Active Diroectory - Windows Server 2022         | SOC Automation Lab|
+| Active Directory - Windows Server 2022         | SOC Automation Lab|
 
 
 ## Tools
@@ -45,8 +45,12 @@ TBA
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> **IN PROGRESS***
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CCNA-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+<div class="text">
+**IN PROGRESS**
 </div>
 
 ## Projects
