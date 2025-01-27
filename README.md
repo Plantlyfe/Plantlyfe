@@ -56,6 +56,6 @@ TBA
 -
 | Project                                         | Description        |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| VPN Configuration                               | VPN Lab|
+| Network Infrastructre | <a href="https://google.com">Detection Lab</a>|
+| Network Monitoring | VPN Lab|
 | Active Directory - Windows Server 2022         | Server Management Lab|
