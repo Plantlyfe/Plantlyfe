@@ -54,7 +54,7 @@ TBA
 
 ## Projects
 -
-| Project                                         | Description        |
+| Project                                         | Description/Link        |
 |-----------------------------------------------|----------------------------|
 | Network Infrastructre | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring | VPN Lab|
