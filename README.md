@@ -10,7 +10,11 @@ TBA
 TBA
 
 ## Skills
--Microsoft Flow – Power Automate|Network Configuration|OSI model/TCP IP|Layer 2 Switching Knowledge & Layer 3 Routing Knowledge – TCP/IP, VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, SNMP, NTP, DHCP, DNS, VTP, Static & IP Routing, HSRP, ACLs, NAT, PAT, OSPF,  IPv6, Wireless Architectures, Access Points, etc| Virtualization/Virtual Machines - Proxmox Hypervisor | Microsoft Windows Server 2022 |Active Directory - Group Policy|
+- Microsoft Flow – Power Automate
+- Layer 2 Switching Knowledge: VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, VTP
+- Layer 3 Routing Knowledge – Static &  Dyanamic IP Routing, HSRP, ACLs, NAT, PAT, OSPF, IPv6
+- SNMP, NTP, DHCP, DNS
+- Wireless Architectures, Access Points, Virtualization, Microsoft Windows Server 2022, Active Directory - Group Polic
 
 ## Tools
 
