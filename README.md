@@ -13,7 +13,7 @@ In my current role I exercise a calculated and methodical approach to problem-so
 
 TBA
 
-## Skills
+## Technical Skills
 - Microsoft Flow – Power Automate
 - Layer 2 Switching Knowledge: VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, VTP
 - Layer 3 Routing Knowledge: Static &  Dyanamic IP Routing, HSRP, ACLs, NAT, PAT, OSPF, IPv6
