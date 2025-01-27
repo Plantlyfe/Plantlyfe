@@ -1,13 +1,13 @@
 # Hello, I'm Stan
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Intro
+## Info/Background
 
 I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals who provide troubleshooting support for clients at hundreds of locations on a daily basis around the country with tight SLAs.
 
 I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Security+ certification. In the future I am hoping to create an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
 
-In my current role I exercise a calculated and methodical approach to problem-solving. I am experienced in troubleshooting methodologies with the proven ability to provide excellent customer service and problem ownership. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings.
+In my current role I exercise a calculated and methodical approach to problem-solving. I am experienced in troubleshooting methodologies with the proven ability to provide excellent customer service and problem ownership. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. I enjoy figuring out ways to automate tnd track tasks we commonly manualy.
 
 
 
