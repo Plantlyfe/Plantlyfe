@@ -3,7 +3,7 @@
 
 ## Intro
 
-I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals to provide troubleshooting support for clients at hundreds of locations around the country with tight SLAs.
+I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals to provide troubleshooting support for clients at hundreds of locations on a daily basis around the country with tight SLAs.
 
 I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Security+ certification. In the future I am hoping to create an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
 
