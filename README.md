@@ -1,9 +1,10 @@
 # Hello, I'm PLANTELYFE
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+Intro
 
-TBA
+I have over eight years of experience in a fast paced environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients.
+
 
 ## Objective
 
