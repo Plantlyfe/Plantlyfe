@@ -10,13 +10,7 @@ TBA
 TBA
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| VPN Configuration                               | VPN Lab|
-| Active Directory - Windows Server 2022         | Server Management Lab|
-
+-Microsoft Flow – Power Automate|Network Configuration|OSI model/TCP IP|Layer 2 Switching Knowledge & Layer 3 Routing Knowledge – TCP/IP, VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, SNMP, NTP, DHCP, DNS, VTP, Static & IP Routing, HSRP, ACLs, NAT, PAT, OSPF,  IPv6, Wireless Architectures, Access Points, etc| Virtualization/Virtual Machines - Proxmox Hypervisor | Microsoft Windows Server 2022 |Active Directory - Group Policy|
 
 ## Tools
 
