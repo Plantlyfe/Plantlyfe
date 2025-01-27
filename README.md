@@ -6,7 +6,6 @@
 TBA
 
 ## Objective
-[Provide Objective]
 
 TBA
 
