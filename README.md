@@ -56,6 +56,6 @@ TBA
 -
 | Project                                         | Description/Link        |
 |-----------------------------------------------|----------------------------|
-| Network Infrastructre | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring | VPN Lab|
+| Network Infrastructure | <a href="https://google.com">Home Lab</a>|
+| Network Traffic Monitoring | <a href="https://google.com">SIEM Tools & Technologies</a> |
 | Active Directory - Windows Server 2022         | Server Management Lab|
