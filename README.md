@@ -11,7 +11,7 @@ In my current role I exercise a calculated and methodical approach to problem-so
 
 ## Objective
 
-I have built and deployed a home lab environment simulating an enterprise network to demonstrate my understanding of Wiring, DNS, DHCP, TCP/IP, Routing protocols and concepts (Ex. OSPF), Virtualization/VMs, Active Directory, Networking Configuration, Monitoring & Equipment, and more. The purpose of this lab environment is to test and grow my skills and learn, implent new technologies, and to find ways to make my network more efficent and secure.
+I have built and deployed a home lab environment simulating an enterprise network to demonstrate my understanding of Wiring, DNS, DHCP, TCP/IP, ACLs, Routing protocols and concepts (Ex. OSPF), Virtualization/VMs, Active Directory, Networking Configuration, Monitoring & Equipment, and more. The purpose of this lab environment is to test and grow my skills and learn, implent new technologies, and to find ways to make my network more efficent and secure.
 
 ## Technical Skills
 - Microsoft Flow – Power Automate to automate tasks (Utilizing Google & Office Suite Apps, triggers, actions, conditions, & parallelism)
