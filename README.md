@@ -53,7 +53,6 @@ TBA
 </div>
 
 ## Projects
--
 | Project                                         | Description/Link        |
 |-----------------------------------------------|----------------------------|
 | Network Infrastructure | <a href="https://google.com">Home Lab Environment</a>|
