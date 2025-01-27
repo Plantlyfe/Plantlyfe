@@ -3,7 +3,7 @@
 
 ## Intro
 
-I have over eight years of experience in a fast paced environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have built a home lab environment simulating an enterprise network to demonstrate my understanding of Wiring, DNS, DHCP, TCP/IP, Routing protocols and concepts (Ex. OSPF), Virtualization/VMs, Active Directory, Networking Configuration & Equipment, and more. I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Security+ certification. In the future I am hoping to implement set up an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
+I have over eight years of experience in a fast paced environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Security+ certification. In the future I am hoping to implement set up an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
 
 In my current role I exercise a calculated and methodical approach to problem-solving. I am experienced in troubleshooting methodologies with the proven ability to provide excellent customer service and problem ownership. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings.
 
@@ -11,7 +11,7 @@ In my current role I exercise a calculated and methodical approach to problem-so
 
 ## Objective
 
-TBA
+I have built and deployed a home lab environment simulating an enterprise network to demonstrate my understanding of Wiring, DNS, DHCP, TCP/IP, Routing protocols and concepts (Ex. OSPF), Virtualization/VMs, Active Directory, Networking Configuration, Monitoring & Equipment, and more. The purpose of this lab environment is to test and grow my skills and learn, implent new technologies, and to find ways to make my network more efficent and secure.
 
 ## Technical Skills
 - Microsoft Flow – Power Automate to automate tasks (Utilizing Google & Office Suite Apps, triggers, actions, conditions, & parallelism)
