@@ -1,7 +1,7 @@
 # Hello, I'm Stan
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Info/Background
+## Info
 
 I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals who provide troubleshooting support for clients at hundreds of locations on a daily basis around the country with tight SLAs.
 
