@@ -12,9 +12,10 @@ In my current role I exercise a calculated and methodical approach to problem-so
 
 
 
-## Objective
+## Overview
 
-I have built and deployed a home lab environment simulating an enterprise network to demonstrate my understanding of Wiring, DNS, DHCP, TCP/IP, ACLs, Routing protocols and concepts (Ex. OSPF), Virtualization/VMs, Active Directory, Networking Configuration, Monitoring & Equipment, and more. The purpose of this portfolio is to showcase the skills I learned and how I implented new technologies to make the lab envirionment network more efficent and secure.
+The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & mMnitoring, DNS, DHCP, Routing Protocols, ACL/firewall rules & ACtive Directory & Group Policy. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. Setup VPN & Remote Access for secure remote administration.
+
 
 ## Technical Skills
 - Microsoft Flow – Power Automate to automate tasks (Utilizing Google & Office Suite Apps, triggers, actions, conditions, & parallelism)
