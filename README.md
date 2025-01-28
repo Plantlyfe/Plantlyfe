@@ -60,6 +60,6 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
 ## Projects
 | Project                                         | Description/Link        |
 |-----------------------------------------------|----------------------------|
-| Network Infrastructure | <a href="https://google.com">Home Lab Environment</a>|
+| Network Infrastructure | <a href="https://github.com/Plantlyfe/HOMELAB-">Home Lab Environment</a>|
 | Network Traffic Monitoring | <a href="https://google.com">SIEM Tools & Technologies</a> |
 | Active Directory - Windows Server 2022         | Server Management Lab|
