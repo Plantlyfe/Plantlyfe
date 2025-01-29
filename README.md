@@ -6,6 +6,12 @@
     
 </div>
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CCNA-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 ## Info
 
@@ -50,12 +56,6 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
     <img src="https://img.shields.io/badge/-Zabbix-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CCNA-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 <div class="text">
