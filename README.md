@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/HOMELAB-"><img src="https://img.shields.io/badge/-Network_Infrastructure_LAB-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/Network-Monitoring"><img src="https://img.shields.io/badge/-Network_Monitoring_Lab-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Active_Directory_Lab-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active_Directory_Lab_(In_Progress)-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
