@@ -24,7 +24,7 @@ I have a Cisco Certified Network Associate (CCNA) Certification and I am current
 
 ## Overview
 
-The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, DNS, DHCP, Routing Protocols, ACL/firewall rules & Active Directory. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. Setup VPN & Remote Access for secure remote administration.
+The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, DNS, DHCP, Routing Protocols, ACL/firewall rules & Active Directory. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. And setup VPN & Remote Access for secure remote administration.
 
 
 ## Technical Skills
