@@ -1,6 +1,11 @@
 # Hello, I'm Stan
 ## Links 
+<div>
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Plantlyfe/HOMELAB-"><img src="https://img.shields.io/badge/-Network_Infrastructure_LAB-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+    
+</div>
+
 
 ## Info
 
