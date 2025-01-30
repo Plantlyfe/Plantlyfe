@@ -20,7 +20,7 @@ I have over eight years of experience working in a fast paced, 24/7, deadline dr
 
 In my current role I exercise a calculated and methodical approach to problem-solving. I am experienced in troubleshooting methodologies with the proven ability to provide excellent customer service and problem ownership. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. I enjoy figuring out ways to automate and track tasks we commonly complete manually.
 
-I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Security+ certification. In the future I am hoping to create an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
+I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Comptia Security+ SY0-701 exam. In the future I am hoping to create an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
 
 
 ## Overview
