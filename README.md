@@ -14,6 +14,28 @@
 </div>
 **IN PROGRESS**
 
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+
 ## Info
 
 I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals who provide troubleshooting support for clients at hundreds of locations on a daily basis around the country with tight SLAs.
@@ -35,24 +57,3 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
 - SNMP, NTP, DHCP, DNS
 - Wireless Architectures, Access Points, Virtualization, Microsoft Windows Server 2022, Active Directory - Group Policy
 - Network Monitoring: Splunk and Zabbix
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Zabbix-0078D4?&style=for-the-badge&logo=Zabbix&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
