@@ -18,6 +18,8 @@
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Modeling_Labs-E1379B?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-378CE1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 <div>
