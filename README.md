@@ -25,6 +25,8 @@
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu_Server-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Paessler_SNMP_Tester-797979?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    
 </div>
 
 <div>
