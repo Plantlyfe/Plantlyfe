@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_IOS-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Tailsclae VPN-000000?&style=for-the-badge&logo=Elastic&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Tailscale VPN-000000?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
 </div>
 
