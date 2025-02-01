@@ -22,13 +22,13 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 <div>
     <img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu_Server-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_IOS-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 
