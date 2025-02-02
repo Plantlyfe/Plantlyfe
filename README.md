@@ -41,17 +41,18 @@
 
 
 ## Info
+I have  over eight years in telecommunications, a Cisco Certified Network Associate (CCNA) certification, and hands-on experience in problem solving in an enterprise environment. In my current role I lead a team of 8–11 analysts troubleshooting service issues across hundreds of client locations while maintaining strict SLAs in a high-pressure, deadline-driven environment.
 
-I have over eight years of experience working in a fast paced, 24/7, deadline driven environment in the telecommunications industry. With additional experience in functioning as a point of escalation for customers and internal management while troubleshooting services for our clients. I have been responsible to develop, mentor, and lead a team of 8-11 individuals who provide troubleshooting support for clients at hundreds of locations on a daily basis around the country with tight SLAs.
+I have a passion for automation and process optimization. Figuring out ways to auotmate tasks we usually would complete manually. I implemented workflow automation using Power Automate, including developing a substitute ticketing system for our department to use during company system outages. This reduced manual work, increased accountability, and improved visibility for daily assignments. Ensuring smooth operations for our clients.
 
-In my current role I exercise a calculated and methodical approach to problem-solving. I am experienced in troubleshooting methodologies with the proven ability to provide excellent customer service and problem ownership. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. I enjoy figuring out ways to automate and track tasks we usually would complete manually.
+I thrive in both independent problem-solving and collaborative team environments, always looking for ways to enhance efficiency, security, and performance. 
 
-I have a Cisco Certified Network Associate (CCNA) Certification and I am currently studying for the Comptia Security+ SY0-701 exam. In the future I am hoping to create an Ansible Playbook for Network Automation using Python. Implement AI-driven network management systems. Write Scripts to automate repetitive Active Directory tasks with PowerShell, Expand Linux Implementation and practice BGP configuration, route optimization, and policy management, to effectively manage network traffic in service provider environments. Configure and maintain additional Linux systems into my lab environment.
+I have built a homelab replicating enterprise networks. This hands-on approach has allowed me to troubleshoot real-world scenarios, reinforcing my ability to support and optimize network infrastructures. My CCNA certification has solidified my networking expertise, and I’m currently pursuing the CompTia Security+ certification to expand my skill set. Additionally, I’m exploring SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
 
 
 ## Overview
 
-The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, DNS, DHCP, Routing Protocols, ACL/firewall rules & Active Directory. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. And setup VPN & Remote Access for secure remote administration.
+The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, VLANs, DHCP, Routing Protocols, ACL/firewall rules & Active Directory. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. And setup VPN & Remote Access for secure remote administration.
 
 
 ## Technical Skills
