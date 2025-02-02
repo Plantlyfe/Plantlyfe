@@ -41,13 +41,15 @@
 
 
 ## Info
-I have  over eight years in telecommunications, a Cisco Certified Network Associate (CCNA) certification, and hands-on experience in problem solving in an enterprise environment. In my current role I lead a team of 8–11 analysts troubleshooting service issues across hundreds of client locations while maintaining strict SLAs in a high-pressure, deadline-driven environment.
+I’m a networking and automation enthusiast with over eight years of experience in telecommunications, a CCNA certification, and a strong track record in enterprise troubleshooting and process optimization. In my current role, I lead a team of 8–11 analysts, ensuring smooth operations for hundreds of client locations while maintaining strict SLAs in a fast-paced, high-pressure environment.
 
-I have a passion for automation and process optimization. Figuring out ways to auotmate tasks we usually would complete manually. I implemented workflow automation using Power Automate, including developing a substitute ticketing system for our department to use during company system outages. This reduced manual work, increased accountability, and improved visibility for daily assignments. Ensuring smooth operations for our clients.
+I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system for my department to use during company system outages. This reduced manual workload, improved accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
 
-I thrive in both independent problem-solving and collaborative team environments, always looking for ways to enhance efficiency, security, and performance. 
+Beyond my professional work, I’ve built a home lab to replicate enterprise networking environments, where I configure and troubleshoot VLANs, DHCP, SNMP, virtualization, and Active Directory. This hands-on approach has strengthened my problem-solving skills and reinforced my ability to optimize network infrastructures.
 
-I have built a homelab replicating enterprise networks. This hands-on approach has allowed me to troubleshoot real-world scenarios, reinforcing my ability to support and optimize network infrastructures. My CCNA certification has solidified my networking expertise, and I’m currently pursuing the CompTia Security+ certification to expand my skill set. Additionally, I’m exploring SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
+My CCNA certification has solidified my networking expertise, and I am currently pursuing CompTIA Security+ to expand my cybersecurity skill set. Additionally, I am exploring SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
+
+I am always looking for new challenges, opportunities to innovate, and ways to push the boundaries of efficiency, security, and performance.
 
 
 ## Overview
