@@ -2,7 +2,7 @@
 ## Links 
 <div>
 <a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Plantlyfe/HOMELAB-"target="_blank"><img src="https://img.shields.io/badge/-Network_Infrastructure_Project-777BB4?&style=for-the-badge&logo=Homelab&logoColor=white" /></a>
+<a href="https://github.com/Plantlyfe/HOMELAB-" target="_blank"><img src="https://img.shields.io/badge/-Network_Infrastructure_Project-777BB4?&style=for-the-badge&logo=Homelab&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/Network-Monitoring"><img src="https://img.shields.io/badge/-Network_Monitoring_Project-EF3B2D?&style=for-the-badge&logo=SIEM&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Active_Directory_Project_(Repository_Setup_In_Progress)-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <a href="https://docs.google.com/document/d/1Ec0gFKyWmrR8n3HAanisCqk3O3-JxXDCQPTt5eQRN_0/edit?tab=t.0"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=Resume&logoColor=white" /></a>
