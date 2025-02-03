@@ -19,10 +19,10 @@
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Modeling_Labs-E1379B?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server_2022-378CE1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+    <a href="https://www.zabbix.com/server_monitoring"><img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" /></a>
+    <a href="https://www.splunk.com/en_us/products/splunk-enterprise.html"><img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="https://www.splunk.com/en_us/products/splunk-enterprise.html"><img src="https://img.shields.io/badge/-Tailscale VPN-000000?&style=for-the-badge&logo=Tailscale&logoColor=white" /></a>
+    <a href="https://www.proxmox.com/en/products/proxmox-virtual-environment/overview"><img src="https://img.shields.io/badge/-Proxmox_Virtual_Environment-FF9C33?&style=for-the-badge&logo=Tailscale&logoColor=white" /></a>
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -32,11 +32,10 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_IOS-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Tailscale VPN-000000?&style=for-the-badge&logo=Elastic&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Modeling_Labs-E1379B?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-378CE1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_IOS-005571?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 
