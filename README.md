@@ -53,7 +53,7 @@ Beyond my professional work, I’ve built a home lab to replicate enterprise net
 
 My CCNA certification has solidified my networking expertise, and I am currently pursuing CompTIA Security+ to expand my skill set. Additionally, I am exploring SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
 
-I am always looking for new challenges, opportunities to innovate, and ways to push the boundaries of efficiency, security, and performance.
+I am always looking for new challenges, opportunities to innovate, and ways to push the boundaries of efficiency, security, and performance!
 
 
 ## Overview
