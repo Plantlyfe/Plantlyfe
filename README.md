@@ -1,10 +1,10 @@
 # Hello, I'm Stanley!
 ## Links 
 <div>
-<a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/HOMELAB-" target="_blank"><img src="https://img.shields.io/badge/-Network_Infrastructure_Project-777BB4?&style=for-the-badge&logo=Homelab&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/Network-Monitoring"><img src="https://img.shields.io/badge/-Network_Monitoring_Project-EF3B2D?&style=for-the-badge&logo=SIEM&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Active_Directory_Project_(Repository_Setup_In_Progress)-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active_Directory_Project_(Repository_Setup_In_Progress)-00A4EF?&style=for-the-badge&logo=Active_Directory&logoColor=white" />
 <a href="https://docs.google.com/document/d/1Ec0gFKyWmrR8n3HAanisCqk3O3-JxXDCQPTt5eQRN_0/edit?tab=t.0"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=Resume&logoColor=white" /></a>
 
 </div>
@@ -28,7 +28,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux/Ubuntu_Server-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux/Ubuntu_Server-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Paessler_SNMP_Tester-797979?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <a href="https://www.lucidchart.com/pages/product"><img src="https://img.shields.io/badge/-Lucid_Charts-FF9C33?&style=for-the-badge&logo=Lucid_Charts&logoColor=white" /></a>
 
@@ -38,7 +38,7 @@
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Modeling_Labs-E1379B?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Modeling_Labs-E1379B?&style=for-the-badge&logo=CML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Server_2022-378CE1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_IOS-005571?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
