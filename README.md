@@ -22,7 +22,7 @@
     <a href="https://www.zabbix.com/server_monitoring"><img src="https://img.shields.io/badge/-Zabbix-d41d00?&style=for-the-badge&logo=Zabbix&logoColor=white" /></a>
     <a href="https://www.splunk.com/en_us/products/splunk-enterprise.html"><img src="https://img.shields.io/badge/-Splunk-73875d?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <a href="https://www.splunk.com/en_us/products/splunk-enterprise.html"><img src="https://img.shields.io/badge/-Tailscale VPN-000000?&style=for-the-badge&logo=Tailscale&logoColor=white" /></a>
-    <a href="https://www.proxmox.com/en/products/proxmox-virtual-environment/overview"><img src="https://img.shields.io/badge/-Proxmox_Virtual_Environment-FF9C33?&style=for-the-badge&logo=Tailscale&logoColor=white" /></a>
+    <a href="https://www.proxmox.com/en/products/proxmox-virtual-environment/overview"><img src="https://img.shields.io/badge/-Proxmox_Virtual_Environment-FF9C33?&style=for-the-badge&logo=Proxmox&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Putty-797979?&style=for-the-badge&logo=Putty&logoColor=white" />
 
 </div>
