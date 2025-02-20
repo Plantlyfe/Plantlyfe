@@ -48,16 +48,16 @@ I’m a networking and automation enthusiast with over eight years of experience
 
 I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system for my department to use during company system outages. This reduced manual workload, improved accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
 
-Beyond my professional work, I’ve built a home lab to replicate enterprise networking environments, where I configure and troubleshoot VLANs, DHCP, SNMP, Virtual Machines, Active Directory Group Policy, etc. This hands-on approach has strengthened my problem-solving skills and reinforced my ability to optimize network infrastructures.
+Beyond my professional work, I’ve built a home lab to replicate enterprise networking environments, where I configure and troubleshoot VLANs, DHCP, SNMP, Virtual Machines, Active Directory - Group Policy, etc. This hands-on approach has strengthened my problem-solving skills and reinforced my ability to optimize network infrastructures.
 
-My CCNA certification has solidified my networking expertise, and I am currently pursuing CompTIA Security+ to expand my skill set. Additionally, I am exploring SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
+My CCNA certification has solidified my networking expertise, and I am currently pursuing CompTIA Security+ to expand my skill set. Additionally, I am exploring more SIEM tools, Python for network automation, and BGP configuration to further enhance my capabilities.
 
 I am always looking for new challenges, opportunities to innovate, and ways to push the boundaries of efficiency, security, and performance!
 
 
 ## Overview
 
-The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, VLANs, DHCP, Routing Protocols, ACL/firewall rules & Active Directory. Configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. Setup Tailscale (Remote Access VPN) on workstations for secure remote administration over the internet.
+The purpose of this portfolio is to showcase how I have designed, deployed, and maintained a scalable LAN network for multiple devices/users to simulate an enterprise network using a variety of network devices such as a Cisco router, Cisco switch, Access Point and a Proxmox virtualization server to demonstrate my understanding of Wiring, Network Configuration & Monitoring, VLANs, DHCP, IP Routing Protocols, & ACL/firewall rules. I configured inter-VLAN routing with ROAS. Implemented VLAN segmentation, and optimized Layer 2/3 switching for security and performance such as SNMPv3 for secure enterprise-leve network monitoring. Setup Tailscale (Remote Access VPN) on workstations for secure remote administration over the internet.
 
 
 ## Technical Skills
