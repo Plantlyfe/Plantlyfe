@@ -12,7 +12,7 @@
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Comptia_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Cisco Certified Network Associate_(CCNA)-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/c66e950b-f43b-4a16-9f2d-680d6f0fb589/public_url"><img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/ccna_600.png" /></a>
 </div>
 **IN PROGRESS**
 
