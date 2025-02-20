@@ -11,8 +11,8 @@
 
 ## Certifications
 <div>
-<img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/CompTIA_Security_INPROGRESS.png" width="170" height="170"/> 
 <a href="https://www.credly.com/badges/c66e950b-f43b-4a16-9f2d-680d6f0fb589/public_url"><img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/ccna_600.png" width="170" height="170"/></a>
+<img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/CompTIA_Security_INPROGRESS.png" width="170" height="170"/> 
 </div>
 
 ## Tools
