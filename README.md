@@ -65,5 +65,6 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
 - Layer 2 Switching Knowledge: VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, VTP
 - Layer 3 Routing Knowledge: Static &  Dyanamic IP Routing, HSRP, ACLs, NAT, PAT, OSPF, IPv6
 - SNMP, NTP, DHCP, DNS
-- Wireless Architectures, Access Points, Virtualization, Microsoft Windows Server 2022, Active Directory - Group Policy
+- Wireless Architectures, Access Points.
+- Windows and Linux Sever Administration, Virtualization/Virtual Machine, Microsoft Windows Server 2022, Active Directory - Group Policy
 - Network Monitoring: Splunk and Zabbix
