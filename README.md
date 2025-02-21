@@ -1,7 +1,7 @@
 # Hello, I'm Stanley!
 ## Links 
 <div>
-<a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/stanley-gelin-6abb50269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/HOMELAB-" target="_blank"><img src="https://img.shields.io/badge/-Network_Infrastructure_Project-777BB4?&style=for-the-badge&logo=Homelab&logoColor=white" /></a>
 <a href="https://github.com/Plantlyfe/Network-Monitoring" target="_blank"><img src="https://img.shields.io/badge/-Network_Monitoring_Project-EF3B2D?&style=for-the-badge&logo=SIEM&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Active_Directory_Project_(Repository_Setup_In_Progress)-00A4EF?&style=for-the-badge&logo=Active_Directory&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/c66e950b-f43b-4a16-9f2d-680d6f0fb589/public_url"><img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/ccna_600.png" width="170" height="170"/></a>
+<a href="https://www.credly.com/badges/c66e950b-f43b-4a16-9f2d-680d6f0fb589/public_url" target="_blank"><img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/ccna_600.png" width="170" height="170"/></a>
 <img src="https://github.com/Plantlyfe/Plantlyfe/blob/main/screenshots/CompTIA_Security_INPROGRESS.png" width="170" height="170"/> 
 </div>
 
