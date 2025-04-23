@@ -47,9 +47,7 @@
 ## Background
 I’m a networking and automation enthusiast with over eight years of experience in telecommunications, a CCNA certification, and a strong track record in enterprise troubleshooting and process optimization. In my current role, I have lead a team of 8–11 analysts, ensuring smooth operations for hundreds of client locations while maintaining strict SLAs in a fast-paced, high-pressure environment.
 
-I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system for my department to use during system outages. I have Created Custom SharePoint pages to consolidate department resources into a single internal website, improving accessibility to troubleshooting guides, documentation, and key tools. While leveraging Power Automate and Sharepoint List for dynamic viewing and reporting. Utilized by 60+ team members daily. With a strong focus to reduced manual workload, improve accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
-
-I have created Created Custom internal website to consolidate department resources, improving accessibility to troubleshooting guides, documentation, and key tools. Utilized by 60+ team members daily. Leveraged Power Automate and Sharepoint List for dynamic viewing and reporting.
+I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system to handle client requests during system outages. Created Custom SharePoint pages to consolidate department resources into a single internal website, improving accessibility to troubleshooting guides, documentation, and key tools. While leveraging Power Automate and Sharepoint List for dynamic viewing and reporting. The sharepoint site is utilized by 60+ team members daily. With a strong focus to reduced manual workload, improve accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
 
 Beyond my professional work, I’ve built a home lab to replicate enterprise networking environments, where I configure and troubleshoot VLANs, DHCP, SNMP, Virtual Machines, Active Directory - Group Policy, etc. This hands-on approach has strengthened my problem-solving skills and reinforced my ability to optimize network infrastructures.
 
@@ -64,8 +62,8 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
 
 
 ## Technical Skills
-- Sharepoint - Created Custom internal website to consolidate department resources, improving accessibility to troubleshooting guides, documentation, and key tools. Utilized by 60+ team members daily. Leveraged Power Automate and Sharepoint List for dynamic viewing and reporting.
-- Microsoft Power Automate - Designed interactive Adaptive Cards using JSON. Configured and maintained automated Flows to automate tasks to reduce manual workload, extract and display data in real time data as dashboard 
+- Sharepoint - Microsoft platform for website creation, document management, & information sharing.
+- Microsoft Power Automate - Designed interactive Adaptive Cards using JSON. Configured and maintained automated Flows to automate tasks to reduce manual workload, extract and display real time data as dashboard 
 - Layer 2 Switching Knowledge: VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, VTP
 - Layer 3 Routing Knowledge: Static &  Dyanamic IP Routing, HSRP, ACLs, NAT, PAT, OSPF, IPv6
 - SNMP, NTP, DHCP, DNS
