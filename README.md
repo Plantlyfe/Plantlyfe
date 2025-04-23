@@ -27,6 +27,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sharepoint-00A4EF?&style=for-the-badge&logo=Sharepoint&logoColor=green" />
     <img src="https://img.shields.io/badge/-Linux/Ubuntu_Server-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Paessler_SNMP_Tester-797979?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <a href="https://www.lucidchart.com/pages/product"><img src="https://img.shields.io/badge/-Lucid_Charts-FF9C33?&style=for-the-badge&logo=Lucid_Charts&logoColor=white" /></a>
@@ -44,9 +45,11 @@
 
 
 ## Background
-I’m a networking and automation enthusiast with over eight years of experience in telecommunications, a CCNA certification, and a strong track record in enterprise troubleshooting and process optimization. In my current role, I lead a team of 8–11 analysts, ensuring smooth operations for hundreds of client locations while maintaining strict SLAs in a fast-paced, high-pressure environment.
+I’m a networking and automation enthusiast with over eight years of experience in telecommunications, a CCNA certification, and a strong track record in enterprise troubleshooting and process optimization. In my current role, I have lead a team of 8–11 analysts, ensuring smooth operations for hundreds of client locations while maintaining strict SLAs in a fast-paced, high-pressure environment.
 
-I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system for my department to use during company system outages. This reduced manual workload, improved accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
+I thrive on solving complex problems and finding ways to work smarter, not harder. I have a passion for automation, constantly looking for ways to streamline repetitive tasks. For example using Power Automate, I developed a substitute ticketing system for my department to use during system outages. I have Created Custom SharePoint pages to consolidate department resources into a single internal website, improving accessibility to troubleshooting guides, documentation, and key tools. While leveraging Power Automate and Sharepoint List for dynamic viewing and reporting. Utilized by 60+ team members daily. With a strong focus to reduced manual workload, improve accountability, and increased visibility for daily assignments, ultimately enhancing service efficiency for our clients.
+
+I have created Created Custom internal website to consolidate department resources, improving accessibility to troubleshooting guides, documentation, and key tools. Utilized by 60+ team members daily. Leveraged Power Automate and Sharepoint List for dynamic viewing and reporting.
 
 Beyond my professional work, I’ve built a home lab to replicate enterprise networking environments, where I configure and troubleshoot VLANs, DHCP, SNMP, Virtual Machines, Active Directory - Group Policy, etc. This hands-on approach has strengthened my problem-solving skills and reinforced my ability to optimize network infrastructures.
 
