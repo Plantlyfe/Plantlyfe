@@ -61,7 +61,8 @@ The purpose of this portfolio is to showcase how I have designed, deployed, and 
 
 
 ## Technical Skills
-- Microsoft Flow – Power Automate to automate tasks (Utilizing Google & Office Suite Apps, triggers, actions, conditions, & parallelism)
+- Sharepoint - Created Custom internal website to consolidate department resources, improving accessibility to troubleshooting guides, documentation, and key tools. Utilized by 60+ team members daily. Leveraged Power Automate and Sharepoint List for dynamic viewing and reporting.
+- Microsoft Power Automate - Designed interactive Adaptive Cards using JSON. Configured and maintained automated Flows to automate tasks to reduce manual workload, extract and display data in real time data as dashboard 
 - Layer 2 Switching Knowledge: VLANs, Spanning Tree, MAC Addresses, Port Channel, Port Security, VTP
 - Layer 3 Routing Knowledge: Static &  Dyanamic IP Routing, HSRP, ACLs, NAT, PAT, OSPF, IPv6
 - SNMP, NTP, DHCP, DNS
