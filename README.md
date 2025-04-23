@@ -27,7 +27,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Power_Automate-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sharepoint-00A4EF?&style=for-the-badge&logo=Sharepoint&logoColor=green" />
+    <img src="https://img.shields.io/badge/-Sharepoint-498205?&style=for-the-badge&logo=Sharepoint&logoColor=green" />
     <img src="https://img.shields.io/badge/-Linux/Ubuntu_Server-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Paessler_SNMP_Tester-797979?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <a href="https://www.lucidchart.com/pages/product"><img src="https://img.shields.io/badge/-Lucid_Charts-FF9C33?&style=for-the-badge&logo=Lucid_Charts&logoColor=white" /></a>
